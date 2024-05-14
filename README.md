@@ -1,1 +1,1 @@
-# WeatherApp-Clone
+# WeatherDashboard
